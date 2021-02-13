@@ -8,9 +8,9 @@ Velocity: Tikka 2685 fps / Mauser 2555 fps
 Reloading Ammo #002
 Brass: Lapua Brass 308win Palma
 Projectile: 30 Caliber 155.5 Grain FULLBORE Target (G1: .473 | G7:.242)
-Powder: CCI 2208 x 44.4gr
+Powder: CCI 2208 x 46.6gr
 Primer: CCI400
-Velocity: Tikka 2685 fps / Mauser 2555 fps
+Velocity: Tikka 2850 fps / Mauser ____ fps
 
 Outback Berger 155.5 Ammo
 Brass: ADI 308win
@@ -25,27 +25,29 @@ Velocity: Tikka 2830 fps / Mauser ____ fps
    Tikka T3x Tac A1 / Vortex Viper Gen II
         
 Reloading  #001         #002       Outback    
-Speed    2685fps                   2830fps    
+Speed    2685fps      2850fps      2830fps    
 Range   MIL    TOF   MIL    TOF   MIL    TOF
 50m     0.0  0.06s   0.0  0.06s   0.0  0.06s
-100m    0.0  0.12s  -0.3  0.12s  -0.3  0.12s
-200m    0.7  0.26s   0.1  0.25s   0.1  0.25s
-300m    1.5  0.42s   0.9  0.39s   0.9  0.39s
-400m    2.5  0.58s   1.8  0.55s   1.8  0.55s
-500m    3.6  0.77s   2.8  0.72s   2.8  0.72s
-600m    4.6  0.97s   4.0  0.90s   4.0  0.90s
-700m    6.3  1.19s   5.3  1.10s   5.3  1.10s
-800m    8.0  1.43s   6.8  1.33s   6.8  1.33s
-900m    9.8  1.69s   8.6  1.57s   8.6  1.57s
-1km    11.8  1.97s  10.5  1.84s  10.5  1.84s
-1.1km  14.2  2.28s  12.7  2.13s  12.7  2.13s
-1.2km  16.8  2.62s  15.1  2.45s  15.1  2.45s
-1.3km  19.7  2.98s  17.9  2.79s  17.9  2.79s
+100m   -0.3  0.12s  -0.3  0.12s  -0.3  0.12s
+200m    0.2  0.26s   0.1  0.25s   0.1  0.25s
+300m    1.1  0.41s   0.8  0.39s   0.9  0.39s
+400m    2.2  0.58s   1.7  0.54s   1.8  0.55s
+500m    3.6  0.77s   2.7  0.71s   2.8  0.72s
+600m    4.6  0.97s   3.9  0.89s   4.0  0.90s
+700m    6.3  1.17s   5.2  1.10s   5.3  1.10s
+800m    7.9  1.41s   6.7  1.32s   6.8  1.33s
+900m    9.8  1.67s   8.4  1.56s   8.6  1.57s
+1km    12.0  1.95s  10.3  1.83s  10.5  1.84s
+1.1km  14.5  2.26s  12.5  2.11s  12.7  2.13s
+1.2km  17.2  2.59s  14.9  2.43s  15.1  2.45s
+1.3km  20.3  2.95s  17.6  2.76s  17.9  2.79s
                 
+
+
 Mauser M-18 / Athlon Midas
         
 Reloading  #001           
-Speed   2520fps                       
+Speed    2520fps                       
 Range   MIL    TOF   
 50m     0.0  0.06s 
 100m   -0.2  0.13s
