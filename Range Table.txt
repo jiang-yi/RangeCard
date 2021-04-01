@@ -3,7 +3,7 @@ Brass: Lapua Brass 308win Palma
 Projectile: 30 Caliber 155.5 Grain FULLBORE Target (G1: .473 | G7:.242)
 Powder: CCI 2208 x 44.4gr
 Primer: CCI400
-Velocity: Tikka 2685 fps / Mauser 2555 fps
+Velocity: Tikka 2685 fps / Mauser 2520 fps
 
 Reloading Ammo #002
 Brass: Lapua Brass 308win Palma
